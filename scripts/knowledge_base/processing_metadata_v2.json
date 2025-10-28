@@ -1,0 +1,200 @@
+[
+  {
+    "original_file": "knowledge_base/raw/Luke_Skywalker.txt",
+    "processed_file": "knowledge_base/processed_v2\\Luke_Skywalker.txt",
+    "original_title": "Luke Skywalker",
+    "new_title": "Zor Harris"
+  },
+  {
+    "original_file": "knowledge_base/raw/Darth_Vader.txt",
+    "processed_file": "knowledge_base/processed_v2\\Darth_Vader.txt",
+    "original_title": "Anakin Skywalker",
+    "new_title": "Kael Vossarian"
+  },
+  {
+    "original_file": "knowledge_base/raw/Leia_Organa.txt",
+    "processed_file": "knowledge_base/processed_v2\\Leia_Organa.txt",
+    "original_title": "Leia Skywalker Organa Solo",
+    "new_title": "Lyra Skywalker Organa Solo"
+  },
+  {
+    "original_file": "knowledge_base/raw/Han_Solo.txt",
+    "processed_file": "knowledge_base/processed_v2\\Han_Solo.txt",
+    "original_title": "Han Solo",
+    "new_title": "Kael Dixon"
+  },
+  {
+    "original_file": "knowledge_base/raw/Yoda.txt",
+    "processed_file": "knowledge_base/processed_v2\\Yoda.txt",
+    "original_title": "Yoda",
+    "new_title": "Master Zenon"
+  },
+  {
+    "original_file": "knowledge_base/raw/Obi-Wan_Kenobi.txt",
+    "processed_file": "knowledge_base/processed_v2\\Obi-Wan_Kenobi.txt",
+    "original_title": "Obi-Wan Kenobi",
+    "new_title": "Orin Valerius"
+  },
+  {
+    "original_file": "knowledge_base/raw/R2-D2.txt",
+    "processed_file": "knowledge_base/processed_v2\\R2-D2.txt",
+    "original_title": "R2-D2",
+    "new_title": "AX-1"
+  },
+  {
+    "original_file": "knowledge_base/raw/C-3PO.txt",
+    "processed_file": "knowledge_base/processed_v2\\C-3PO.txt",
+    "original_title": "C-3PO",
+    "new_title": "PX-0"
+  },
+  {
+    "original_file": "knowledge_base/raw/Chewbacca.txt",
+    "processed_file": "knowledge_base/processed_v2\\Chewbacca.txt",
+    "original_title": "Chewbacca",
+    "new_title": "Grorg"
+  },
+  {
+    "original_file": "knowledge_base/raw/Emperor_Palpatine.txt",
+    "processed_file": "knowledge_base/processed_v2\\Emperor_Palpatine.txt",
+    "original_title": "Emperor Palpatine (reference book)",
+    "new_title": "Emperor Palpatine (reference book)"
+  },
+  {
+    "original_file": "knowledge_base/raw/Boba_Fett.txt",
+    "processed_file": "knowledge_base/processed_v2\\Boba_Fett.txt",
+    "original_title": "Boba Fett",
+    "new_title": "Jax Korr"
+  },
+  {
+    "original_file": "knowledge_base/raw/Lando_Calrissian.txt",
+    "processed_file": "knowledge_base/processed_v2\\Lando_Calrissian.txt",
+    "original_title": "Landonis Balthazar Calrissian",
+    "new_title": "Landonis Balthazar Calrissian"
+  },
+  {
+    "original_file": "knowledge_base/raw/Stormtrooper.txt",
+    "processed_file": "knowledge_base/processed_v2\\Stormtrooper.txt",
+    "original_title": "Stormtrooper",
+    "new_title": "Dominion Trooper"
+  },
+  {
+    "original_file": "knowledge_base/raw/Jabba_the_Hutt.txt",
+    "processed_file": "knowledge_base/processed_v2\\Jabba_the_Hutt.txt",
+    "original_title": "Jabba Desilijic Tiure",
+    "new_title": "Jabba Desilijic Tiure"
+  },
+  {
+    "original_file": "knowledge_base/raw/Millennium_Falcon.txt",
+    "processed_file": "knowledge_base/processed_v2\\Millennium_Falcon.txt",
+    "original_title": "Millennium Falcon",
+    "new_title": "Stardust Runner"
+  },
+  {
+    "original_file": "knowledge_base/raw/Death_Star.txt",
+    "processed_file": "knowledge_base/processed_v2\\Death_Star.txt",
+    "original_title": "Death Star",
+    "new_title": "Annihilation Sphere"
+  },
+  {
+    "original_file": "knowledge_base/raw/Lightsaber.txt",
+    "processed_file": "knowledge_base/processed_v2\\Lightsaber.txt",
+    "original_title": "Lightsaber",
+    "new_title": "Plasma Blade"
+  },
+  {
+    "original_file": "knowledge_base/raw/The_Force.txt",
+    "processed_file": "knowledge_base/processed_v2\\The_Force.txt",
+    "original_title": "The Force",
+    "new_title": "Synth Flux"
+  },
+  {
+    "original_file": "knowledge_base/raw/Jedi.txt",
+    "processed_file": "knowledge_base/processed_v2\\Jedi.txt",
+    "original_title": "Jedi",
+    "new_title": "Aether Guardians"
+  },
+  {
+    "original_file": "knowledge_base/raw/Sith.txt",
+    "processed_file": "knowledge_base/processed_v2\\Sith.txt",
+    "original_title": "Sith",
+    "new_title": "Void Bringers"
+  },
+  {
+    "original_file": "knowledge_base/raw/Tatooine.txt",
+    "processed_file": "knowledge_base/processed_v2\\Tatooine.txt",
+    "original_title": "Tatooine",
+    "new_title": "Kylos Prime"
+  },
+  {
+    "original_file": "knowledge_base/raw/Hoth.txt",
+    "processed_file": "knowledge_base/processed_v2\\Hoth.txt",
+    "original_title": "Hoth",
+    "new_title": "Frigidia"
+  },
+  {
+    "original_file": "knowledge_base/raw/Endor.txt",
+    "processed_file": "knowledge_base/processed_v2\\Endor.txt",
+    "original_title": "Endor",
+    "new_title": "Arborea"
+  },
+  {
+    "original_file": "knowledge_base/raw/Coruscant.txt",
+    "processed_file": "knowledge_base/processed_v2\\Coruscant.txt",
+    "original_title": "Coruscant",
+    "new_title": "Aethelburg"
+  },
+  {
+    "original_file": "knowledge_base/raw/Naboo.txt",
+    "processed_file": "knowledge_base/processed_v2\\Naboo.txt",
+    "original_title": "Naboo",
+    "new_title": "Cristina VI"
+  },
+  {
+    "original_file": "knowledge_base/raw/Clone_Wars.txt",
+    "processed_file": "knowledge_base/processed_v2\\Clone_Wars.txt",
+    "original_title": "Clone Wars",
+    "new_title": "Replication Conflict"
+  },
+  {
+    "original_file": "knowledge_base/raw/Galactic_Empire.txt",
+    "processed_file": "knowledge_base/processed_v2\\Galactic_Empire.txt",
+    "original_title": "Galactic Empire",
+    "new_title": "Stellar Dominion"
+  },
+  {
+    "original_file": "knowledge_base/raw/Rebel_Alliance.txt",
+    "processed_file": "knowledge_base/processed_v2\\Rebel_Alliance.txt",
+    "original_title": "Alliance to Restore the Republic",
+    "new_title": "Alliance to Restore the Republic"
+  },
+  {
+    "original_file": "knowledge_base/raw/TIE_Fighter.txt",
+    "processed_file": "knowledge_base/processed_v2\\TIE_Fighter.txt",
+    "original_title": "TIE/ln space superiority starfighter",
+    "new_title": "TIE/ln space superiority starfighter"
+  },
+  {
+    "original_file": "knowledge_base/raw/Blaster.txt",
+    "processed_file": "knowledge_base/processed_v2\\Blaster.txt",
+    "original_title": "Blaster",
+    "new_title": "Pulse Rifle"
+  },
+  {
+    "original_file": "knowledge_base/raw/Speeder_Bike.txt",
+    "processed_file": "knowledge_base/processed_v2\\Speeder_Bike.txt",
+    "original_title": "Speeder bike",
+    "new_title": "Grav-Cycle"
+  },
+  {
+    "original_file": "knowledge_base/raw/AT-AT.txt",
+    "processed_file": "knowledge_base/processed_v2\\AT-AT.txt",
+    "original_title": "All Terrain Armored Transport",
+    "new_title": "All Terrain Armored Transport"
+  },
+  {
+    "original_file": "knowledge_base/raw/Star_Destroyer.txt",
+    "processed_file": "knowledge_base/processed_v2\\Star_Destroyer.txt",
+    "original_title": "Star Destroyer",
+    "new_title": "Void Cruiser"
+  }
+]

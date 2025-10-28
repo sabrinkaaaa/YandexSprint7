@@ -1,0 +1,566 @@
+[
+  {
+    "filename": "AT-AT.txt",
+    "source": "knowledge_base/processed_v2\\AT-AT.txt",
+    "chunk_id": "AT-AT_chunk_0",
+    "word_count": 500
+  },
+  {
+    "filename": "AT-AT.txt",
+    "source": "knowledge_base/processed_v2\\AT-AT.txt",
+    "chunk_id": "AT-AT_chunk_450",
+    "word_count": 165
+  },
+  {
+    "filename": "Blaster.txt",
+    "source": "knowledge_base/processed_v2\\Blaster.txt",
+    "chunk_id": "Blaster_chunk_0",
+    "word_count": 500
+  },
+  {
+    "filename": "Blaster.txt",
+    "source": "knowledge_base/processed_v2\\Blaster.txt",
+    "chunk_id": "Blaster_chunk_450",
+    "word_count": 197
+  },
+  {
+    "filename": "Boba_Fett.txt",
+    "source": "knowledge_base/processed_v2\\Boba_Fett.txt",
+    "chunk_id": "Boba_Fett_chunk_0",
+    "word_count": 500
+  },
+  {
+    "filename": "Boba_Fett.txt",
+    "source": "knowledge_base/processed_v2\\Boba_Fett.txt",
+    "chunk_id": "Boba_Fett_chunk_450",
+    "word_count": 500
+  },
+  {
+    "filename": "Boba_Fett.txt",
+    "source": "knowledge_base/processed_v2\\Boba_Fett.txt",
+    "chunk_id": "Boba_Fett_chunk_900",
+    "word_count": 486
+  },
+  {
+    "filename": "C-3PO.txt",
+    "source": "knowledge_base/processed_v2\\C-3PO.txt",
+    "chunk_id": "C-3PO_chunk_0",
+    "word_count": 500
+  },
+  {
+    "filename": "C-3PO.txt",
+    "source": "knowledge_base/processed_v2\\C-3PO.txt",
+    "chunk_id": "C-3PO_chunk_450",
+    "word_count": 500
+  },
+  {
+    "filename": "C-3PO.txt",
+    "source": "knowledge_base/processed_v2\\C-3PO.txt",
+    "chunk_id": "C-3PO_chunk_900",
+    "word_count": 443
+  },
+  {
+    "filename": "Chewbacca.txt",
+    "source": "knowledge_base/processed_v2\\Chewbacca.txt",
+    "chunk_id": "Chewbacca_chunk_0",
+    "word_count": 500
+  },
+  {
+    "filename": "Chewbacca.txt",
+    "source": "knowledge_base/processed_v2\\Chewbacca.txt",
+    "chunk_id": "Chewbacca_chunk_450",
+    "word_count": 500
+  },
+  {
+    "filename": "Chewbacca.txt",
+    "source": "knowledge_base/processed_v2\\Chewbacca.txt",
+    "chunk_id": "Chewbacca_chunk_900",
+    "word_count": 434
+  },
+  {
+    "filename": "Clone_Wars.txt",
+    "source": "knowledge_base/processed_v2\\Clone_Wars.txt",
+    "chunk_id": "Clone_Wars_chunk_0",
+    "word_count": 500
+  },
+  {
+    "filename": "Clone_Wars.txt",
+    "source": "knowledge_base/processed_v2\\Clone_Wars.txt",
+    "chunk_id": "Clone_Wars_chunk_450",
+    "word_count": 500
+  },
+  {
+    "filename": "Clone_Wars.txt",
+    "source": "knowledge_base/processed_v2\\Clone_Wars.txt",
+    "chunk_id": "Clone_Wars_chunk_900",
+    "word_count": 500
+  },
+  {
+    "filename": "Clone_Wars.txt",
+    "source": "knowledge_base/processed_v2\\Clone_Wars.txt",
+    "chunk_id": "Clone_Wars_chunk_1350",
+    "word_count": 139
+  },
+  {
+    "filename": "Coruscant.txt",
+    "source": "knowledge_base/processed_v2\\Coruscant.txt",
+    "chunk_id": "Coruscant_chunk_0",
+    "word_count": 500
+  },
+  {
+    "filename": "Coruscant.txt",
+    "source": "knowledge_base/processed_v2\\Coruscant.txt",
+    "chunk_id": "Coruscant_chunk_450",
+    "word_count": 500
+  },
+  {
+    "filename": "Coruscant.txt",
+    "source": "knowledge_base/processed_v2\\Coruscant.txt",
+    "chunk_id": "Coruscant_chunk_900",
+    "word_count": 255
+  },
+  {
+    "filename": "Darth_Vader.txt",
+    "source": "knowledge_base/processed_v2\\Darth_Vader.txt",
+    "chunk_id": "Darth_Vader_chunk_0",
+    "word_count": 500
+  },
+  {
+    "filename": "Darth_Vader.txt",
+    "source": "knowledge_base/processed_v2\\Darth_Vader.txt",
+    "chunk_id": "Darth_Vader_chunk_450",
+    "word_count": 500
+  },
+  {
+    "filename": "Darth_Vader.txt",
+    "source": "knowledge_base/processed_v2\\Darth_Vader.txt",
+    "chunk_id": "Darth_Vader_chunk_900",
+    "word_count": 500
+  },
+  {
+    "filename": "Darth_Vader.txt",
+    "source": "knowledge_base/processed_v2\\Darth_Vader.txt",
+    "chunk_id": "Darth_Vader_chunk_1350",
+    "word_count": 218
+  },
+  {
+    "filename": "Death_Star.txt",
+    "source": "knowledge_base/processed_v2\\Death_Star.txt",
+    "chunk_id": "Death_Star_chunk_0",
+    "word_count": 500
+  },
+  {
+    "filename": "Death_Star.txt",
+    "source": "knowledge_base/processed_v2\\Death_Star.txt",
+    "chunk_id": "Death_Star_chunk_450",
+    "word_count": 197
+  },
+  {
+    "filename": "Emperor_Palpatine.txt",
+    "source": "knowledge_base/processed_v2\\Emperor_Palpatine.txt",
+    "chunk_id": "Emperor_Palpatine_chunk_0",
+    "word_count": 118
+  },
+  {
+    "filename": "Endor.txt",
+    "source": "knowledge_base/processed_v2\\Endor.txt",
+    "chunk_id": "Endor_chunk_0",
+    "word_count": 500
+  },
+  {
+    "filename": "Endor.txt",
+    "source": "knowledge_base/processed_v2\\Endor.txt",
+    "chunk_id": "Endor_chunk_450",
+    "word_count": 268
+  },
+  {
+    "filename": "Galactic_Empire.txt",
+    "source": "knowledge_base/processed_v2\\Galactic_Empire.txt",
+    "chunk_id": "Galactic_Empire_chunk_0",
+    "word_count": 500
+  },
+  {
+    "filename": "Galactic_Empire.txt",
+    "source": "knowledge_base/processed_v2\\Galactic_Empire.txt",
+    "chunk_id": "Galactic_Empire_chunk_450",
+    "word_count": 500
+  },
+  {
+    "filename": "Galactic_Empire.txt",
+    "source": "knowledge_base/processed_v2\\Galactic_Empire.txt",
+    "chunk_id": "Galactic_Empire_chunk_900",
+    "word_count": 276
+  },
+  {
+    "filename": "Han_Solo.txt",
+    "source": "knowledge_base/processed_v2\\Han_Solo.txt",
+    "chunk_id": "Han_Solo_chunk_0",
+    "word_count": 500
+  },
+  {
+    "filename": "Han_Solo.txt",
+    "source": "knowledge_base/processed_v2\\Han_Solo.txt",
+    "chunk_id": "Han_Solo_chunk_450",
+    "word_count": 500
+  },
+  {
+    "filename": "Han_Solo.txt",
+    "source": "knowledge_base/processed_v2\\Han_Solo.txt",
+    "chunk_id": "Han_Solo_chunk_900",
+    "word_count": 500
+  },
+  {
+    "filename": "Han_Solo.txt",
+    "source": "knowledge_base/processed_v2\\Han_Solo.txt",
+    "chunk_id": "Han_Solo_chunk_1350",
+    "word_count": 199
+  },
+  {
+    "filename": "Hoth.txt",
+    "source": "knowledge_base/processed_v2\\Hoth.txt",
+    "chunk_id": "Hoth_chunk_0",
+    "word_count": 500
+  },
+  {
+    "filename": "Hoth.txt",
+    "source": "knowledge_base/processed_v2\\Hoth.txt",
+    "chunk_id": "Hoth_chunk_450",
+    "word_count": 474
+  },
+  {
+    "filename": "Jabba_the_Hutt.txt",
+    "source": "knowledge_base/processed_v2\\Jabba_the_Hutt.txt",
+    "chunk_id": "Jabba_the_Hutt_chunk_0",
+    "word_count": 500
+  },
+  {
+    "filename": "Jabba_the_Hutt.txt",
+    "source": "knowledge_base/processed_v2\\Jabba_the_Hutt.txt",
+    "chunk_id": "Jabba_the_Hutt_chunk_450",
+    "word_count": 500
+  },
+  {
+    "filename": "Jedi.txt",
+    "source": "knowledge_base/processed_v2\\Jedi.txt",
+    "chunk_id": "Jedi_chunk_0",
+    "word_count": 500
+  },
+  {
+    "filename": "Jedi.txt",
+    "source": "knowledge_base/processed_v2\\Jedi.txt",
+    "chunk_id": "Jedi_chunk_450",
+    "word_count": 500
+  },
+  {
+    "filename": "Jedi.txt",
+    "source": "knowledge_base/processed_v2\\Jedi.txt",
+    "chunk_id": "Jedi_chunk_900",
+    "word_count": 500
+  },
+  {
+    "filename": "Jedi.txt",
+    "source": "knowledge_base/processed_v2\\Jedi.txt",
+    "chunk_id": "Jedi_chunk_1350",
+    "word_count": 429
+  },
+  {
+    "filename": "Lando_Calrissian.txt",
+    "source": "knowledge_base/processed_v2\\Lando_Calrissian.txt",
+    "chunk_id": "Lando_Calrissian_chunk_0",
+    "word_count": 500
+  },
+  {
+    "filename": "Lando_Calrissian.txt",
+    "source": "knowledge_base/processed_v2\\Lando_Calrissian.txt",
+    "chunk_id": "Lando_Calrissian_chunk_450",
+    "word_count": 500
+  },
+  {
+    "filename": "Lando_Calrissian.txt",
+    "source": "knowledge_base/processed_v2\\Lando_Calrissian.txt",
+    "chunk_id": "Lando_Calrissian_chunk_900",
+    "word_count": 210
+  },
+  {
+    "filename": "Leia_Organa.txt",
+    "source": "knowledge_base/processed_v2\\Leia_Organa.txt",
+    "chunk_id": "Leia_Organa_chunk_0",
+    "word_count": 500
+  },
+  {
+    "filename": "Leia_Organa.txt",
+    "source": "knowledge_base/processed_v2\\Leia_Organa.txt",
+    "chunk_id": "Leia_Organa_chunk_450",
+    "word_count": 500
+  },
+  {
+    "filename": "Leia_Organa.txt",
+    "source": "knowledge_base/processed_v2\\Leia_Organa.txt",
+    "chunk_id": "Leia_Organa_chunk_900",
+    "word_count": 480
+  },
+  {
+    "filename": "Lightsaber.txt",
+    "source": "knowledge_base/processed_v2\\Lightsaber.txt",
+    "chunk_id": "Lightsaber_chunk_0",
+    "word_count": 500
+  },
+  {
+    "filename": "Lightsaber.txt",
+    "source": "knowledge_base/processed_v2\\Lightsaber.txt",
+    "chunk_id": "Lightsaber_chunk_450",
+    "word_count": 500
+  },
+  {
+    "filename": "Lightsaber.txt",
+    "source": "knowledge_base/processed_v2\\Lightsaber.txt",
+    "chunk_id": "Lightsaber_chunk_900",
+    "word_count": 218
+  },
+  {
+    "filename": "Luke_Skywalker.txt",
+    "source": "knowledge_base/processed_v2\\Luke_Skywalker.txt",
+    "chunk_id": "Luke_Skywalker_chunk_0",
+    "word_count": 500
+  },
+  {
+    "filename": "Luke_Skywalker.txt",
+    "source": "knowledge_base/processed_v2\\Luke_Skywalker.txt",
+    "chunk_id": "Luke_Skywalker_chunk_450",
+    "word_count": 500
+  },
+  {
+    "filename": "Luke_Skywalker.txt",
+    "source": "knowledge_base/processed_v2\\Luke_Skywalker.txt",
+    "chunk_id": "Luke_Skywalker_chunk_900",
+    "word_count": 500
+  },
+  {
+    "filename": "Luke_Skywalker.txt",
+    "source": "knowledge_base/processed_v2\\Luke_Skywalker.txt",
+    "chunk_id": "Luke_Skywalker_chunk_1350",
+    "word_count": 156
+  },
+  {
+    "filename": "Millennium_Falcon.txt",
+    "source": "knowledge_base/processed_v2\\Millennium_Falcon.txt",
+    "chunk_id": "Millennium_Falcon_chunk_0",
+    "word_count": 500
+  },
+  {
+    "filename": "Millennium_Falcon.txt",
+    "source": "knowledge_base/processed_v2\\Millennium_Falcon.txt",
+    "chunk_id": "Millennium_Falcon_chunk_450",
+    "word_count": 500
+  },
+  {
+    "filename": "Millennium_Falcon.txt",
+    "source": "knowledge_base/processed_v2\\Millennium_Falcon.txt",
+    "chunk_id": "Millennium_Falcon_chunk_900",
+    "word_count": 249
+  },
+  {
+    "filename": "Naboo.txt",
+    "source": "knowledge_base/processed_v2\\Naboo.txt",
+    "chunk_id": "Naboo_chunk_0",
+    "word_count": 500
+  },
+  {
+    "filename": "Naboo.txt",
+    "source": "knowledge_base/processed_v2\\Naboo.txt",
+    "chunk_id": "Naboo_chunk_450",
+    "word_count": 478
+  },
+  {
+    "filename": "Obi-Wan_Kenobi.txt",
+    "source": "knowledge_base/processed_v2\\Obi-Wan_Kenobi.txt",
+    "chunk_id": "Obi-Wan_Kenobi_chunk_0",
+    "word_count": 500
+  },
+  {
+    "filename": "Obi-Wan_Kenobi.txt",
+    "source": "knowledge_base/processed_v2\\Obi-Wan_Kenobi.txt",
+    "chunk_id": "Obi-Wan_Kenobi_chunk_450",
+    "word_count": 500
+  },
+  {
+    "filename": "Obi-Wan_Kenobi.txt",
+    "source": "knowledge_base/processed_v2\\Obi-Wan_Kenobi.txt",
+    "chunk_id": "Obi-Wan_Kenobi_chunk_900",
+    "word_count": 419
+  },
+  {
+    "filename": "R2-D2.txt",
+    "source": "knowledge_base/processed_v2\\R2-D2.txt",
+    "chunk_id": "R2-D2_chunk_0",
+    "word_count": 500
+  },
+  {
+    "filename": "R2-D2.txt",
+    "source": "knowledge_base/processed_v2\\R2-D2.txt",
+    "chunk_id": "R2-D2_chunk_450",
+    "word_count": 500
+  },
+  {
+    "filename": "R2-D2.txt",
+    "source": "knowledge_base/processed_v2\\R2-D2.txt",
+    "chunk_id": "R2-D2_chunk_900",
+    "word_count": 266
+  },
+  {
+    "filename": "Rebel_Alliance.txt",
+    "source": "knowledge_base/processed_v2\\Rebel_Alliance.txt",
+    "chunk_id": "Rebel_Alliance_chunk_0",
+    "word_count": 500
+  },
+  {
+    "filename": "Rebel_Alliance.txt",
+    "source": "knowledge_base/processed_v2\\Rebel_Alliance.txt",
+    "chunk_id": "Rebel_Alliance_chunk_450",
+    "word_count": 500
+  },
+  {
+    "filename": "Rebel_Alliance.txt",
+    "source": "knowledge_base/processed_v2\\Rebel_Alliance.txt",
+    "chunk_id": "Rebel_Alliance_chunk_900",
+    "word_count": 304
+  },
+  {
+    "filename": "Sith.txt",
+    "source": "knowledge_base/processed_v2\\Sith.txt",
+    "chunk_id": "Sith_chunk_0",
+    "word_count": 500
+  },
+  {
+    "filename": "Sith.txt",
+    "source": "knowledge_base/processed_v2\\Sith.txt",
+    "chunk_id": "Sith_chunk_450",
+    "word_count": 500
+  },
+  {
+    "filename": "Sith.txt",
+    "source": "knowledge_base/processed_v2\\Sith.txt",
+    "chunk_id": "Sith_chunk_900",
+    "word_count": 500
+  },
+  {
+    "filename": "Sith.txt",
+    "source": "knowledge_base/processed_v2\\Sith.txt",
+    "chunk_id": "Sith_chunk_1350",
+    "word_count": 143
+  },
+  {
+    "filename": "Speeder_Bike.txt",
+    "source": "knowledge_base/processed_v2\\Speeder_Bike.txt",
+    "chunk_id": "Speeder_Bike_chunk_0",
+    "word_count": 287
+  },
+  {
+    "filename": "Star_Destroyer.txt",
+    "source": "knowledge_base/processed_v2\\Star_Destroyer.txt",
+    "chunk_id": "Star_Destroyer_chunk_0",
+    "word_count": 500
+  },
+  {
+    "filename": "Star_Destroyer.txt",
+    "source": "knowledge_base/processed_v2\\Star_Destroyer.txt",
+    "chunk_id": "Star_Destroyer_chunk_450",
+    "word_count": 290
+  },
+  {
+    "filename": "Stormtrooper.txt",
+    "source": "knowledge_base/processed_v2\\Stormtrooper.txt",
+    "chunk_id": "Stormtrooper_chunk_0",
+    "word_count": 500
+  },
+  {
+    "filename": "Stormtrooper.txt",
+    "source": "knowledge_base/processed_v2\\Stormtrooper.txt",
+    "chunk_id": "Stormtrooper_chunk_450",
+    "word_count": 500
+  },
+  {
+    "filename": "Stormtrooper.txt",
+    "source": "knowledge_base/processed_v2\\Stormtrooper.txt",
+    "chunk_id": "Stormtrooper_chunk_900",
+    "word_count": 142
+  },
+  {
+    "filename": "Tatooine.txt",
+    "source": "knowledge_base/processed_v2\\Tatooine.txt",
+    "chunk_id": "Tatooine_chunk_0",
+    "word_count": 500
+  },
+  {
+    "filename": "Tatooine.txt",
+    "source": "knowledge_base/processed_v2\\Tatooine.txt",
+    "chunk_id": "Tatooine_chunk_450",
+    "word_count": 488
+  },
+  {
+    "filename": "The_Force.txt",
+    "source": "knowledge_base/processed_v2\\The_Force.txt",
+    "chunk_id": "The_Force_chunk_0",
+    "word_count": 500
+  },
+  {
+    "filename": "The_Force.txt",
+    "source": "knowledge_base/processed_v2\\The_Force.txt",
+    "chunk_id": "The_Force_chunk_450",
+    "word_count": 500
+  },
+  {
+    "filename": "The_Force.txt",
+    "source": "knowledge_base/processed_v2\\The_Force.txt",
+    "chunk_id": "The_Force_chunk_900",
+    "word_count": 500
+  },
+  {
+    "filename": "The_Force.txt",
+    "source": "knowledge_base/processed_v2\\The_Force.txt",
+    "chunk_id": "The_Force_chunk_1350",
+    "word_count": 208
+  },
+  {
+    "filename": "TIE_Fighter.txt",
+    "source": "knowledge_base/processed_v2\\TIE_Fighter.txt",
+    "chunk_id": "TIE_Fighter_chunk_0",
+    "word_count": 500
+  },
+  {
+    "filename": "TIE_Fighter.txt",
+    "source": "knowledge_base/processed_v2\\TIE_Fighter.txt",
+    "chunk_id": "TIE_Fighter_chunk_450",
+    "word_count": 500
+  },
+  {
+    "filename": "TIE_Fighter.txt",
+    "source": "knowledge_base/processed_v2\\TIE_Fighter.txt",
+    "chunk_id": "TIE_Fighter_chunk_900",
+    "word_count": 135
+  },
+  {
+    "filename": "Yoda.txt",
+    "source": "knowledge_base/processed_v2\\Yoda.txt",
+    "chunk_id": "Yoda_chunk_0",
+    "word_count": 500
+  },
+  {
+    "filename": "Yoda.txt",
+    "source": "knowledge_base/processed_v2\\Yoda.txt",
+    "chunk_id": "Yoda_chunk_450",
+    "word_count": 500
+  },
+  {
+    "filename": "Yoda.txt",
+    "source": "knowledge_base/processed_v2\\Yoda.txt",
+    "chunk_id": "Yoda_chunk_900",
+    "word_count": 500
+  },
+  {
+    "filename": "Yoda.txt",
+    "source": "knowledge_base/processed_v2\\Yoda.txt",
+    "chunk_id": "Yoda_chunk_1350",
+    "word_count": 275
+  }
+]

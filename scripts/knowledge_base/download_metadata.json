@@ -1,0 +1,167 @@
+[
+  {
+    "original_name": "Luke_Skywalker",
+    "file": "knowledge_base/raw/Luke_Skywalker.txt",
+    "title": "Luke Skywalker"
+  },
+  {
+    "original_name": "Darth_Vader",
+    "file": "knowledge_base/raw/Darth_Vader.txt",
+    "title": "Anakin Skywalker"
+  },
+  {
+    "original_name": "Leia_Organa",
+    "file": "knowledge_base/raw/Leia_Organa.txt",
+    "title": "Leia Skywalker Organa Solo"
+  },
+  {
+    "original_name": "Han_Solo",
+    "file": "knowledge_base/raw/Han_Solo.txt",
+    "title": "Han Solo"
+  },
+  {
+    "original_name": "Yoda",
+    "file": "knowledge_base/raw/Yoda.txt",
+    "title": "Yoda"
+  },
+  {
+    "original_name": "Obi-Wan_Kenobi",
+    "file": "knowledge_base/raw/Obi-Wan_Kenobi.txt",
+    "title": "Obi-Wan Kenobi"
+  },
+  {
+    "original_name": "R2-D2",
+    "file": "knowledge_base/raw/R2-D2.txt",
+    "title": "R2-D2"
+  },
+  {
+    "original_name": "C-3PO",
+    "file": "knowledge_base/raw/C-3PO.txt",
+    "title": "C-3PO"
+  },
+  {
+    "original_name": "Chewbacca",
+    "file": "knowledge_base/raw/Chewbacca.txt",
+    "title": "Chewbacca"
+  },
+  {
+    "original_name": "Emperor_Palpatine",
+    "file": "knowledge_base/raw/Emperor_Palpatine.txt",
+    "title": "Emperor Palpatine (reference book)"
+  },
+  {
+    "original_name": "Boba_Fett",
+    "file": "knowledge_base/raw/Boba_Fett.txt",
+    "title": "Boba Fett"
+  },
+  {
+    "original_name": "Lando_Calrissian",
+    "file": "knowledge_base/raw/Lando_Calrissian.txt",
+    "title": "Landonis Balthazar Calrissian"
+  },
+  {
+    "original_name": "Stormtrooper",
+    "file": "knowledge_base/raw/Stormtrooper.txt",
+    "title": "Stormtrooper"
+  },
+  {
+    "original_name": "Jabba_the_Hutt",
+    "file": "knowledge_base/raw/Jabba_the_Hutt.txt",
+    "title": "Jabba Desilijic Tiure"
+  },
+  {
+    "original_name": "Millennium_Falcon",
+    "file": "knowledge_base/raw/Millennium_Falcon.txt",
+    "title": "Millennium Falcon"
+  },
+  {
+    "original_name": "Death_Star",
+    "file": "knowledge_base/raw/Death_Star.txt",
+    "title": "Death Star"
+  },
+  {
+    "original_name": "Lightsaber",
+    "file": "knowledge_base/raw/Lightsaber.txt",
+    "title": "Lightsaber"
+  },
+  {
+    "original_name": "The_Force",
+    "file": "knowledge_base/raw/The_Force.txt",
+    "title": "The Force"
+  },
+  {
+    "original_name": "Jedi",
+    "file": "knowledge_base/raw/Jedi.txt",
+    "title": "Jedi"
+  },
+  {
+    "original_name": "Sith",
+    "file": "knowledge_base/raw/Sith.txt",
+    "title": "Sith"
+  },
+  {
+    "original_name": "Tatooine",
+    "file": "knowledge_base/raw/Tatooine.txt",
+    "title": "Tatooine"
+  },
+  {
+    "original_name": "Hoth",
+    "file": "knowledge_base/raw/Hoth.txt",
+    "title": "Hoth"
+  },
+  {
+    "original_name": "Endor",
+    "file": "knowledge_base/raw/Endor.txt",
+    "title": "Endor"
+  },
+  {
+    "original_name": "Coruscant",
+    "file": "knowledge_base/raw/Coruscant.txt",
+    "title": "Coruscant"
+  },
+  {
+    "original_name": "Naboo",
+    "file": "knowledge_base/raw/Naboo.txt",
+    "title": "Naboo"
+  },
+  {
+    "original_name": "Clone_Wars",
+    "file": "knowledge_base/raw/Clone_Wars.txt",
+    "title": "Clone Wars"
+  },
+  {
+    "original_name": "Galactic_Empire",
+    "file": "knowledge_base/raw/Galactic_Empire.txt",
+    "title": "Galactic Empire"
+  },
+  {
+    "original_name": "Rebel_Alliance",
+    "file": "knowledge_base/raw/Rebel_Alliance.txt",
+    "title": "Alliance to Restore the Republic"
+  },
+  {
+    "original_name": "TIE_Fighter",
+    "file": "knowledge_base/raw/TIE_Fighter.txt",
+    "title": "TIE/ln space superiority starfighter"
+  },
+  {
+    "original_name": "Blaster",
+    "file": "knowledge_base/raw/Blaster.txt",
+    "title": "Blaster"
+  },
+  {
+    "original_name": "Speeder_Bike",
+    "file": "knowledge_base/raw/Speeder_Bike.txt",
+    "title": "Speeder bike"
+  },
+  {
+    "original_name": "AT-AT",
+    "file": "knowledge_base/raw/AT-AT.txt",
+    "title": "All Terrain Armored Transport"
+  },
+  {
+    "original_name": "Star_Destroyer",
+    "file": "knowledge_base/raw/Star_Destroyer.txt",
+    "title": "Star Destroyer"
+  }
+]
